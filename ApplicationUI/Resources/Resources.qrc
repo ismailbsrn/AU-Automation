@@ -1,5 +1,7 @@
 <RCC>
-  <qresource prefix="Icons"/>
+  <qresource prefix="Icons">
+    <file>Ankara_University_Logo.png</file>
+  </qresource>
   <qresource prefix="StyleSheets">
     <file>style.qss</file>
   </qresource>

@@ -1,6 +1,6 @@
 import sys
 from PySide6.QtWidgets import QApplication, QMainWindow, QFileDialog
-from ApplicationUI.UserInterface.MainWindow import Ui_MainWindow  # Import the auto-generated UI class
+from ApplicationUI.MainWindow import Ui_MainWindow  # Import the auto-generated UI class
 
 class MainWindow(QMainWindow):
     def __init__(self):
